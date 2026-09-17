@@ -1,2 +1,1 @@
-Ola mundo!
-Esta é una nova mensaxe.
+Este é un saúdo definitivo.
